@@ -17,7 +17,8 @@ This repo helps me:
 
 ---
 
-## 📂 Structure
+## 📂 Structure<br>
+
 📁 python-practice-repo/
 ├── easy/ # Easy-level Python problems
 ├── medium/ # Medium difficulty logic & DS problems
